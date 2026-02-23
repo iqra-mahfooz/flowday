@@ -18,6 +18,15 @@ It combines clean design, smooth interactions, and structured task management to
 
 ---
 
+🚀 Live Demo
+
+🔗 Live Website:
+https://iq-flowday.netlify.app
+
+🔗 GitHub Repository:
+https://github.com/iqra-mahfooz/flowday
+
+
 ## 🛠 Tech Stack
 
 ### Frontend
