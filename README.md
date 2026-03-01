@@ -141,7 +141,7 @@ The structure is organized for scalability and maintainability.
 ## 👩‍💻 Author
 
 **Iqra Mahfooz**  
-Frontend Developer focused on building clean, aesthetic, and user-centered web applications.
+Frontend Developer focused on building clean, aesthetic, and user-centered web applications.Learning by working and experimenting.
 
 ---
 
